@@ -1,0 +1,67 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 2:16:10 sie 21, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:09:12 lut 24, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+#navigation_home {
+	background: url(/web/20150821021610/http://www.sm.poznan.pl/mim/wspolne/straz/mim2010/pagina_01.jpg) right no-repeat;
+}
+
+#pagina {
+	width: 768px;
+	height: 99px;
+	background: url(/web/20150821021610/http://www.sm.poznan.pl/mim/wspolne/straz/mim2010/pagina_01.jpg) no-repeat !important;
+}
+
+.box_info h3,.box_info_long h3,.box_info_bottom_left h3,.box_info_bottom_right h3,.box_scrollable_navigation,h3.lhs,h3.rhs
+	{
+	color: #fff !important;
+	background: #205BA9 url(/web/20150821021610/http://www.sm.poznan.pl/mim/wspolne/straz/mim2010/color.jpg) no-repeat !important;
+}
+
+#kreacja_shadow_big,#kreacja_shadow_small {
+	display: none;
+}
+
+#box_pinboard ul li {
+	width: 210px;
+	font-size: 0.8em;
+}
+
+#box_pinboard {
+	float: left !important;
+	width: 494px;
+	height: 118px;
+	top: 330px !important;
+	margin: 0px !important;
+}
+
+#box_pinboard ul {
+	float: left !important;
+	margin-top: 5px;
+	margin-right: 5px !important;
+	margin-bottom: 5px;
+	margin-left: 11px;
+}
+
+.icon_986 a {
+	background: url("/web/20150821021610/http://www.sm.poznan.pl/mim/wspolne/straz/mim2010/986.gif") no-repeat scroll 190px 2px transparent;
+}
+
+.box_bottom {
+	height: 120px;
+}
+#area_block_bottom, #area_block_top, #area_block_middle {
+	width: 967px;
+}
+#important_links a {
+	font-size: 0.98em !important;
+}

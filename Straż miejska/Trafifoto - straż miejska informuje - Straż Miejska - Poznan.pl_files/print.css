@@ -1,0 +1,74 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 2:16:12 sie 21, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:09:16 lut 24, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body {
+	background: #fff !important;
+}
+
+div,a {
+	color: #000 !important;
+	background: #fff !important;
+}
+
+.hidden,.share_services,.NavigationList,#footer,#overlay,#logo_pcss,#w3c,#XHTML,#CSS,#quick_links,#push_footer_down,#Navigation,#wortale,#area_top,#area_pagina,#area_important_links,#area_important_links_short,#top_menu,#search_box,#right_menu_block,#wortale_bg,#article_options,#box_banners
+{
+	display: none;
+}
+
+#main,#article_content {
+	border: 0 !important;
+	width: 98% !important;
+	background: #fff !important;
+}
+
+#footer {
+	display: block !important;
+	border-top: 1px solid #ccc;
+}
+/* map styles*/
+#permalink,#slider-bg,.olControlPanZoom,.olControlScaleBar,#hide_map_panel,#show_map_panel
+	{
+	display: none;
+}
+
+#OpenMap {
+	height: 600px !important;
+	width: 700px !important;
+	float: left !important;
+	border: 2px solid #bbb !important;
+}
+
+#layer_switcher,#printBtn,#streetForm,.lhs,#lhs_plan,#area_important_links {
+	display: none !important;
+}
+.olTileImage{
+	display:inherit;
+}
+#attribution{
+	line-height:1em;
+	font-size: 1em;
+	padding:2px;
+	position:absolute;
+	left: -180px;
+	top:40px;
+	display:block;
+}
+.olLayerDiv{
+	background: none !important;
+}
+.olLayerDiv div, .olLayerDiv img{
+	background: none !important;
+}
+.olPopup,.olPopupContent{
+	background: white !important;
+}
